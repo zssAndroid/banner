@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="MytoggleButton">
+        <!-- 背景图片属性 -->
+        <attr name="backgroundRes" format="reference"/>
+        <!-- 滑动块图片属性 -->
+        <attr name="slideButtonRes" format="reference"/>
+        <!-- 开关状态属性 -->
+        <attr name="state" format="boolean"/>
+    </declare-styleable>
+
+</resources>
